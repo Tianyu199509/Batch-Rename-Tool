@@ -13,8 +13,7 @@
 - **📦 单文件交付**：打包产物为单个 `.exe` 免安装执行文件，携带方便。
 
 ## 📸 预览截图
-*(请在此处替换为您的实际运行截图)*
-![Screenshot](./docs/screenshot.png)
+<img width="1279" height="880" alt="截图" src="https://github.com/user-attachments/assets/4fa7ac7b-5549-4c1c-a0bc-18beb58249d3" />
 
 ## 🛠️ 构建与开发指南
 
